@@ -23,18 +23,38 @@ permalink: websites
 
 <!-- Two -->
 <section id="two" class="spotlights inner">
-	<section class="website-item">
-		<a href="http://babskiespotkania.co.uk/" class="image">
-			<img src="assets/images/Polskie-Babskie-Spotkania-Bristol-Kate-and-code-Kate-Jeziorska-web-development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
+<section class="website-item">
+		<a href="https://patriciapawlak.com/" class="image">
+			<img src="assets/images/Patricia-Pawlak-portfolio-Kate-and-code-kate-jeziorska-web-development.png" alt="Strona- portfolio Patrycji Pawlak"  />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Polish Women Circle in Bristol, UK</h3>
+					<h3>Patricia Pawlak portfolio WordPress site</h3>
 				</header>
 						<p>fall 2018.</p>
 						<ul>
-						<li>pro bono project for women community</li>
+						<li>very clean, modern design and development based on free, tweaked WordPress theme</li>
+						<li>project in progress</li>
+						</ul>
+				<ul class="actions">
+					<li><a href="https://patriciapawlak.com/" class="button">[soon]see the website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
+		<a href="http://babskiespotkania.co.uk/" class="image">
+			<img src="assets/images/Polskie-Babskie-Spotkania-Bristol-Kate-and-code-Kate-Jeziorska-web-development.png" alt="Strona Polskich Babskich Spotkan w Bristol webdesign Kate Jeziorska web development"  />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Polish Women Circle in Bristol WordPress site</h3>
+				</header>
+						<p>fall 2018.</p>
+						<ul>
+						<li>pro bono project for women community. Women in Bristol, UK, reached out to me, asking about organizing Polish meetings (I have some know-how, since I am doing this since 2016). I offered to build website for them so they can invite more women</li>
 						<li>design and developed one page project, based on Elementor framework</li>
 						</ul>
 				<ul class="actions">
