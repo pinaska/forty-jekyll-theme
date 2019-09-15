@@ -17,15 +17,35 @@ permalink: websites
 		<header class="major">
 			<h2>how I work</h2>
 		</header>
-		<p>For me, a website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fulfill certain business needs.<br />I choose my programming stack based on project requirements, but my first choice for client website is a free, developer-ready WordPress installation.</p>
+		<p>For me, a website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fulfill certain business needs.<br />I choose my programming stack based on project requirements, but my first choice for a client website is a free, developer-ready WordPress installation.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights inner">
 	<section class="website-item">
+		<a href="http://babskiespotkania.co.uk/" class="image">
+			<img src="assets/images/Polskie-Babskie-Spotkania-Bristol-Kate-and-code-Kate-Jeziorska-web-development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Polish Women Circle in Bristol, UK</h3>
+				</header>
+						<p>fall 2018.</p>
+						<ul>
+						<li>pro bono project for women community</li>
+						<li>design and developed one page project, based on Elementor framework</li>
+						</ul>
+				<ul class="actions">
+					<li><a href="http://babskiespotkania.co.uk/" class="button">see the website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
 		<a href="https://www.canvassalon.ca/" class="image">
-			<img src="assets/images/canvassalon_kate_jeziorska_web_development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
+			<img src="assets/images/canvassalon_kate_jeziorska_web_development.png" alt="canvassalon webdesign by Kate Jeziorska web development"  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -47,7 +67,7 @@ permalink: websites
 	</section>
 	<section class="website-item">
 		<a href="#" class="image">
-			<img src="assets/images/wav_kate_jeziorska_web_development.png" alt="" data-position="top center" />
+			<img src="assets/images/wav_kate_jeziorska_web_development.png" alt="Wild-about-Vancouver-website-webdesign-and-development-Kate-Jeziorska" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
