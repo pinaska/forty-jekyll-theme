@@ -23,7 +23,27 @@ permalink: websites
 
 <!-- Two -->
 <section id="two" class="spotlights inner">
-<section class="website-item">
+	<section class="website-item">
+		<a href="https://allinteriors.ca/" class="image">
+			<img src="assets/images/Allinteriors-website-Kate-and-code-Kate-Jeziorska-web-development.png" alt="Strona-portfolio-design-studio-AllInteriors"  />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>All Interiors WordPress site</h3>
+				</header>
+						<p>winter-spring 2019.</p>
+						<ul>
+						<li>3 sites WordPress page, coded based on delivered design project, with Elementor framework</li>
+						<li>post-maintenance package added: quaterly WordPress updates, Google Analytics and SEO reports</li>
+						</ul>
+				<ul class="actions">
+					<li><a href="https://allinteriors.ca/" class="button">see the website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
 		<a href="https://patriciapawlak.com/" class="image">
 			<img src="assets/images/Patricia-Pawlak-portfolio-Kate-and-code-kate-jeziorska-web-development.png" alt="Strona- portfolio Patrycji Pawlak"  />
 		</a>
