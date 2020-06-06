@@ -122,9 +122,6 @@ permalink: websites
 						<li>customized paid plugin: event calendar</li>
 						<li>deployment ongoing, with code tweaks and adjustment of existing content</li>
 					</ul>
-				<ul class="actions">
-					<li><a href="#" class="button">[soon]see the website</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
